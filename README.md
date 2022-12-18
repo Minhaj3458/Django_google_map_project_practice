@@ -1,2 +1,3 @@
 
-# Django_google_map_project_practice
+# Project Video Youtube Link:
+https://youtu.be/lD30zWlqHPc
